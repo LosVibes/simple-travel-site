@@ -1,12 +1,15 @@
-.photo-gallery img{
-    width: 15vw;
+body{
+    padding: 2.5em;
+}
+#photo-gallery img{
+    width: 20vw;
     background-color: #cccccc;
     padding: 1px;
     border: 1em solid white;
     box-shadow: .1em .1em .2em .2em rgba(0, 0, 0, 0.1);
     margin: 0.5em;
 }
-.photo-gallery{
+#photo-gallery{
     margin: auto;
     text-align: center;
 }
